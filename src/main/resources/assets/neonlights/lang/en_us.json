@@ -1,0 +1,13 @@
+{
+  "itemGroup.neonlights": "Example Mod Tab",
+  "block.neonlights.example_block": "Example Block",
+  "item.neonlights.example_item": "Example Item",
+
+  "neonlights.configuration.title": "Neon Lights Configs",
+  "neonlights.configuration.section.neonlights.common.toml": "Neon Lights Configs",
+  "neonlights.configuration.section.neonlights.common.toml.title": "Neon Lights Configs",
+  "neonlights.configuration.items": "Item List",
+  "neonlights.configuration.logDirtBlock": "Log Dirt Block",
+  "neonlights.configuration.magicNumberIntroduction": "Magic Number Text",
+  "neonlights.configuration.magicNumber": "Magic Number"
+}
